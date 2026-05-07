@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hacked By SukaJanda01 - Garuda Security</title>
+    <title>Touch By SukaJanda01 - Garuda Security</title>
     <link rel="icon" type="image/x-icon" href="https://telegra.ph/file/f8e5b2de33ddaa512ccf7.jpg">
     <meta name="description" content="Touch By SukaJanda01 - Garuda Security, showcasing the Touch and its impact." />
     <meta name="keywords" content="Touch By SukaJanda01, Touch, Garuda Security, security breach" />
@@ -46,10 +46,11 @@
                 <h1><code>Touch By SukaJanda01</code></h1>
                 <p><code>aku hanya bisa melihat mu bersama orang baru dan aku tidak bisa memiliki mu, karena kamu sudah ada yang baru</code></p>
                 <footer>
-                <?php system('uname -a'); ?>
-                    <p><code>Garuda Security 2017 - 2026</code></p>
-                    <p><code><a href="https://t.me/GarudaSecurityTeam" target="_blank" style="color: #0066cc; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">t.me/GarudaSecurityTeam</a></code></p>
-                </footer>
+                <footer>
+    <p><code>System Info: <?php echo php_uname(); ?></code></p>
+    <p><code>Garuda Security 2017 - 2026</code></p>
+    <p><code><a href="https://t.me/GarudaSecurityTeam" target="_blank" style="color: #0066cc; text-decoration: none;">t.me/GarudaSecurityTeam</a></code></p>
+</footer>
                 <audio controls="controls" src="https://d.top4top.io/m_3101v3w5t0.mp3"></audio>
             </div>
         </div>
